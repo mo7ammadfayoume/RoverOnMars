@@ -1,0 +1,14 @@
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\bin\Debug\net8.0\RoverOnMars.exe
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\bin\Debug\net8.0\RoverOnMars.deps.json
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\bin\Debug\net8.0\RoverOnMars.runtimeconfig.json
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\bin\Debug\net8.0\RoverOnMars.dll
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\bin\Debug\net8.0\RoverOnMars.pdb
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.AssemblyInfo.cs
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.dll
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\refint\RoverOnMars.dll
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.pdb
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.genruntimeconfig.cache
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\ref\RoverOnMars.dll
