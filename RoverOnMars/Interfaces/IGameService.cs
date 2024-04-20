@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RoverOnMars
+namespace RoverOnMars.Interfaces
 {
-    public class Game
+    public interface IGameService
     {
-        
+        void Start();
     }
 }

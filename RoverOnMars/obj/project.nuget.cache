@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YR/7ix5oCEtUhWH22b2DMlcdTv1v3oBnzZiEGLxfdwnF+h4ZXMqKJvFW7dP3f+xA3Rw/bYZa5KTNoAeU+8Jcuw==",
+  "dgSpecHash": "gSWsJrLDo/0K4aLWdvnhg2cN5RfYHJTTpnkMh5e9eeSlPGVL6Ane8I6jkAQ6Nhd60H4alplglgzJb81gx3LydA==",
   "success": true,
   "projectFilePath": "C:\\Users\\moham\\source\\repos\\RoverOnMars\\RoverOnMars\\RoverOnMars.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

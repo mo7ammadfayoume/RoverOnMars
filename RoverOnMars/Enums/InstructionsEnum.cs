@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RoverOnMars
+namespace RoverOnMars.Enums
 {
-    public class Game
+    public enum InstructionsEnum : int
     {
-        
+        Right = 82,
+        Left = 76,
     }
 }

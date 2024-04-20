@@ -12,3 +12,10 @@ C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\refint\Rove
 C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.pdb
 C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.genruntimeconfig.cache
 C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\ref\RoverOnMars.dll
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\bin\Debug\net8.0\Mapster.dll
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.sourcelink.json
+C:\Users\moham\source\repos\RoverOnMars\RoverOnMars\obj\Debug\net8.0\RoverOnMars.csproj.CopyComplete

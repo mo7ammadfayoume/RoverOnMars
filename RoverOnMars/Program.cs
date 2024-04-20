@@ -1,4 +1,15 @@
-﻿using RoverOnMars;
+﻿using Microsoft.Extensions.DependencyInjection;
+using RoverOnMars;
+using RoverOnMars.Interfaces;
+using RoverOnMars.Services;
+using System;
 
-var newGame = new Game();
-newGame.Start();
+var serviceProvider = new ServiceCollection()
+    .AddSingleton<IRoverService, RoverService>()
+    .AddSingleton<IPlanetService, PlanetService>()
+    .AddSingleton<IGameService, GameService>()
+    .BuildServiceProvider();
+
+var gameService = serviceProvider.GetRequiredService<IGameService>();
+
+gameService.Start();
