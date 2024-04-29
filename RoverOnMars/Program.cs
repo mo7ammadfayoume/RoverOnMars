@@ -12,4 +12,5 @@ var serviceProvider = new ServiceCollection()
 
 var gameService = serviceProvider.GetRequiredService<IGameService>();
 
+
 gameService.Start();
